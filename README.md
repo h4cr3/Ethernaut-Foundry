@@ -5,11 +5,11 @@ Ethernaut-Foundry is an open-source repository that provides a collection of sma
 ## Features
 
 The Ethernaut-Foundry repository includes the following features:
-
-  *A collection of smart contracts and scripts for use with the Ethernaut educational platform
-  *Detailed instructions and explanations for each smart contract and challenge
-  *Examples of common attack vectors and vulnerabilities in smart contracts
-  *Sample solutions for each challenge to help guide developers in their learning process
+<br/>
+  *A collection of smart contracts and scripts for use with the Ethernaut educational platform<br/>
+  *Detailed instructions and explanations for each smart contract and challenge<br/>
+  *Examples of common attack vectors and vulnerabilities in smart contracts<br/>
+  *Sample solutions for each challenge to help guide developers in their learning process<br/>
 
 ## Contributing
 
